@@ -1,0 +1,140 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.5-8.0.5-0~ubuntu22.04.1*
+G04 #@! TF.CreationDate,2024-09-18T18:42:56+00:00*
+G04 #@! TF.ProjectId,Z31HELLEN,5a333148-454c-44c4-954e-2e6b69636164,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L2,Inr*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.5-8.0.5-0~ubuntu22.04.1) date 2024-09-18 18:42:56*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD10C,1.500000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD11C,2.000000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD12C,6.075000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.N,unconnected-(Z31-Pad1)*
+G04 #@! TO.C,Z31*
+X9550000Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad2)*
+X12550000Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad3)*
+X15550000Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad4)*
+X18550500Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad5)*
+X21550000Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad6)*
+X24550000Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad7)*
+X27550000Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad8)*
+X30550500Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad9)*
+X33550500Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad10)*
+X36550500Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad11)*
+X9550000Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad12)*
+X12550000Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad13)*
+X15550000Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad14)*
+X18550500Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad15)*
+X21550000Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad16)*
+X24550000Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad17)*
+X27550000Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad18)*
+X30550500Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad19)*
+X33550500Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad20)*
+X36550500Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad21)*
+X41850000Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad22)*
+X44850500Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad23)*
+X47850000Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad24)*
+X50850000Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad25)*
+X53850500Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad26)*
+X56850500Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad27)*
+X59850500Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad28)*
+X62850500Y-83800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad29)*
+X41850000Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad30)*
+X44850500Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad31)*
+X47850000Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad34)*
+X56850500Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad35)*
+X59850500Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad36)*
+X62850500Y-87800500D03*
+D11*
+G04 #@! TO.N,unconnected-(Z31-Pad101)*
+X-39250000Y-86000000D03*
+G04 #@! TO.N,unconnected-(Z31-Pad102)*
+X-34250000Y-86000000D03*
+G04 #@! TO.N,unconnected-(Z31-Pad103)*
+X-29250000Y-86000000D03*
+G04 #@! TO.N,unconnected-(Z31-Pad104)*
+X-24250000Y-86000000D03*
+G04 #@! TO.N,unconnected-(Z31-Pad105)*
+X-19250000Y-86000000D03*
+G04 #@! TO.N,unconnected-(Z31-Pad106)*
+X-14250000Y-86000000D03*
+G04 #@! TO.N,unconnected-(Z31-Pad107)*
+X-36750000Y-82000000D03*
+G04 #@! TO.N,unconnected-(Z31-Pad108)*
+X-31750000Y-82000000D03*
+G04 #@! TO.N,unconnected-(Z31-Pad109)*
+X-26750000Y-82000000D03*
+G04 #@! TO.N,unconnected-(Z31-Pad112)*
+X-39250000Y-78000000D03*
+G04 #@! TO.N,unconnected-(Z31-Pad113)*
+X-34250000Y-78000000D03*
+G04 #@! TO.N,unconnected-(Z31-Pad1002)*
+X-19250000Y-78000000D03*
+G04 #@! TO.N,unconnected-(Z31-Pad1003)*
+X-14250000Y-78000000D03*
+G04 #@! TO.N,unconnected-(Z31-Pad1004)*
+X-21750000Y-82000000D03*
+G04 #@! TO.N,unconnected-(Z31-Pad1005)*
+X-16750000Y-82000000D03*
+D10*
+G04 #@! TO.N,unconnected-(Z31-Pad1006)*
+X50850500Y-87800500D03*
+G04 #@! TO.N,unconnected-(Z31-Pad1007)*
+X53850500Y-87800500D03*
+D12*
+G04 #@! TO.N,unconnected-(Z31-MH-Pad1008)*
+X-47250000Y-91000000D03*
+G04 #@! TO.N,unconnected-(Z31-MH-Pad1009)*
+X-6250000Y-91000000D03*
+G04 #@! TO.N,unconnected-(Z31-MH-Pad10010)*
+X2600000Y-93300000D03*
+G04 #@! TO.N,unconnected-(Z31-MH-Pad10011)*
+X69800000Y-93300000D03*
+G04 #@! TD*
+M02*
