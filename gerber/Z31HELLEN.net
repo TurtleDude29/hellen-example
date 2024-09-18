@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/hellen-example/hellen-example/Z31HELLEN.kicad_sch</source>
-    <date>2024-09-18T17:21:28+0000</date>
+    <date>2024-09-18T17:44:10+0000</date>
     <tool>Eeschema 8.0.5-8.0.5-0~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -24,40 +24,19 @@
     </sheet>
   </design>
   <components>
-    <comp ref="CON1">
-      <value>Z32 2024</value>
+    <comp ref="Z31">
+      <value>~</value>
+      <footprint>Z31:Z31 15 + 36</footprint>
       <fields>
-        <field name="NAME"/>
-        <field name="SYMBOL">Z32 2024</field>
-        <field name="DEVICE">Z32 2024</field>
-        <field name="ADD INTO BOM">yes</field>
-        <field name="CONVERT TO PCB">yes</field>
-        <field name="MANUFACTURER"/>
-        <field name="MANUFACTURER PART"/>
-        <field name="SUPPLIER"/>
-        <field name="SUPPLIER PART"/>
-        <field name="_">3</field>
-        <field name="DESCRIPTION"/>
-        <field name="Footprint"/>
+        <field name="Footprint">Z31:Z31 15 + 36</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Z31HELLEN-altium-import" part="root_0_Z32 2024" description=""/>
-      <property name="NAME" value=""/>
-      <property name="SYMBOL" value="Z32 2024"/>
-      <property name="DEVICE" value="Z32 2024"/>
-      <property name="ADD INTO BOM" value="yes"/>
-      <property name="CONVERT TO PCB" value="yes"/>
-      <property name="MANUFACTURER" value=""/>
-      <property name="MANUFACTURER PART" value=""/>
-      <property name="SUPPLIER" value=""/>
-      <property name="SUPPLIER PART" value=""/>
-      <property name="_" value="3"/>
-      <property name="DESCRIPTION" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Z31HELLEN.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>bde3f047-7095-4e79-a47f-00f934ac4f14</tstamps>
+      <tstamps>a22aa76f-cc91-4eff-93e4-1ea6de5254b9</tstamps>
     </comp>
   </components>
   <libparts>
@@ -130,170 +109,170 @@
   </libparts>
   <libraries/>
   <nets>
-    <net code="1" name="unconnected-(CON1-MH-Pad1008)">
-      <node ref="CON1" pin="1008" pinfunction="MH" pintype="passive"/>
+    <net code="1" name="unconnected-(Z31-MH-Pad1008)">
+      <node ref="Z31" pin="1008" pinfunction="MH" pintype="passive"/>
     </net>
-    <net code="2" name="unconnected-(CON1-MH-Pad1009)">
-      <node ref="CON1" pin="1009" pinfunction="MH" pintype="passive"/>
+    <net code="2" name="unconnected-(Z31-MH-Pad1009)">
+      <node ref="Z31" pin="1009" pinfunction="MH" pintype="passive"/>
     </net>
-    <net code="3" name="unconnected-(CON1-MH-Pad10010)">
-      <node ref="CON1" pin="10010" pinfunction="MH" pintype="passive"/>
+    <net code="3" name="unconnected-(Z31-MH-Pad10010)">
+      <node ref="Z31" pin="10010" pinfunction="MH" pintype="passive"/>
     </net>
-    <net code="4" name="unconnected-(CON1-MH-Pad10011)">
-      <node ref="CON1" pin="10011" pinfunction="MH" pintype="passive"/>
+    <net code="4" name="unconnected-(Z31-MH-Pad10011)">
+      <node ref="Z31" pin="10011" pinfunction="MH" pintype="passive"/>
     </net>
-    <net code="5" name="unconnected-(CON1-Pad1)">
-      <node ref="CON1" pin="1" pinfunction="1" pintype="passive"/>
+    <net code="5" name="unconnected-(Z31-Pad1)">
+      <node ref="Z31" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="6" name="unconnected-(CON1-Pad2)">
-      <node ref="CON1" pin="2" pinfunction="2" pintype="passive"/>
+    <net code="6" name="unconnected-(Z31-Pad2)">
+      <node ref="Z31" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="7" name="unconnected-(CON1-Pad3)">
-      <node ref="CON1" pin="3" pinfunction="3" pintype="passive"/>
+    <net code="7" name="unconnected-(Z31-Pad3)">
+      <node ref="Z31" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="8" name="unconnected-(CON1-Pad4)">
-      <node ref="CON1" pin="4" pinfunction="4" pintype="passive"/>
+    <net code="8" name="unconnected-(Z31-Pad4)">
+      <node ref="Z31" pin="4" pinfunction="4" pintype="passive"/>
     </net>
-    <net code="9" name="unconnected-(CON1-Pad5)">
-      <node ref="CON1" pin="5" pinfunction="5" pintype="passive"/>
+    <net code="9" name="unconnected-(Z31-Pad5)">
+      <node ref="Z31" pin="5" pinfunction="5" pintype="passive"/>
     </net>
-    <net code="10" name="unconnected-(CON1-Pad6)">
-      <node ref="CON1" pin="6" pinfunction="6" pintype="passive"/>
+    <net code="10" name="unconnected-(Z31-Pad6)">
+      <node ref="Z31" pin="6" pinfunction="6" pintype="passive"/>
     </net>
-    <net code="11" name="unconnected-(CON1-Pad7)">
-      <node ref="CON1" pin="7" pinfunction="7" pintype="passive"/>
+    <net code="11" name="unconnected-(Z31-Pad7)">
+      <node ref="Z31" pin="7" pinfunction="7" pintype="passive"/>
     </net>
-    <net code="12" name="unconnected-(CON1-Pad8)">
-      <node ref="CON1" pin="8" pinfunction="8" pintype="passive"/>
+    <net code="12" name="unconnected-(Z31-Pad8)">
+      <node ref="Z31" pin="8" pinfunction="8" pintype="passive"/>
     </net>
-    <net code="13" name="unconnected-(CON1-Pad9)">
-      <node ref="CON1" pin="9" pinfunction="9" pintype="passive"/>
+    <net code="13" name="unconnected-(Z31-Pad9)">
+      <node ref="Z31" pin="9" pinfunction="9" pintype="passive"/>
     </net>
-    <net code="14" name="unconnected-(CON1-Pad10)">
-      <node ref="CON1" pin="10" pinfunction="10" pintype="passive"/>
+    <net code="14" name="unconnected-(Z31-Pad10)">
+      <node ref="Z31" pin="10" pinfunction="10" pintype="passive"/>
     </net>
-    <net code="15" name="unconnected-(CON1-Pad11)">
-      <node ref="CON1" pin="11" pinfunction="11" pintype="passive"/>
+    <net code="15" name="unconnected-(Z31-Pad11)">
+      <node ref="Z31" pin="11" pinfunction="11" pintype="passive"/>
     </net>
-    <net code="16" name="unconnected-(CON1-Pad12)">
-      <node ref="CON1" pin="12" pinfunction="12" pintype="passive"/>
+    <net code="16" name="unconnected-(Z31-Pad12)">
+      <node ref="Z31" pin="12" pinfunction="12" pintype="passive"/>
     </net>
-    <net code="17" name="unconnected-(CON1-Pad13)">
-      <node ref="CON1" pin="13" pinfunction="13" pintype="passive"/>
+    <net code="17" name="unconnected-(Z31-Pad13)">
+      <node ref="Z31" pin="13" pinfunction="13" pintype="passive"/>
     </net>
-    <net code="18" name="unconnected-(CON1-Pad14)">
-      <node ref="CON1" pin="14" pinfunction="14" pintype="passive"/>
+    <net code="18" name="unconnected-(Z31-Pad14)">
+      <node ref="Z31" pin="14" pinfunction="14" pintype="passive"/>
     </net>
-    <net code="19" name="unconnected-(CON1-Pad15)">
-      <node ref="CON1" pin="15" pinfunction="15" pintype="passive"/>
+    <net code="19" name="unconnected-(Z31-Pad15)">
+      <node ref="Z31" pin="15" pinfunction="15" pintype="passive"/>
     </net>
-    <net code="20" name="unconnected-(CON1-Pad16)">
-      <node ref="CON1" pin="16" pinfunction="16" pintype="passive"/>
+    <net code="20" name="unconnected-(Z31-Pad16)">
+      <node ref="Z31" pin="16" pinfunction="16" pintype="passive"/>
     </net>
-    <net code="21" name="unconnected-(CON1-Pad17)">
-      <node ref="CON1" pin="17" pinfunction="17" pintype="passive"/>
+    <net code="21" name="unconnected-(Z31-Pad17)">
+      <node ref="Z31" pin="17" pinfunction="17" pintype="passive"/>
     </net>
-    <net code="22" name="unconnected-(CON1-Pad18)">
-      <node ref="CON1" pin="18" pinfunction="18" pintype="passive"/>
+    <net code="22" name="unconnected-(Z31-Pad18)">
+      <node ref="Z31" pin="18" pinfunction="18" pintype="passive"/>
     </net>
-    <net code="23" name="unconnected-(CON1-Pad19)">
-      <node ref="CON1" pin="19" pinfunction="19" pintype="passive"/>
+    <net code="23" name="unconnected-(Z31-Pad19)">
+      <node ref="Z31" pin="19" pinfunction="19" pintype="passive"/>
     </net>
-    <net code="24" name="unconnected-(CON1-Pad20)">
-      <node ref="CON1" pin="20" pinfunction="20" pintype="passive"/>
+    <net code="24" name="unconnected-(Z31-Pad20)">
+      <node ref="Z31" pin="20" pinfunction="20" pintype="passive"/>
     </net>
-    <net code="25" name="unconnected-(CON1-Pad21)">
-      <node ref="CON1" pin="21" pinfunction="21" pintype="passive"/>
+    <net code="25" name="unconnected-(Z31-Pad21)">
+      <node ref="Z31" pin="21" pinfunction="21" pintype="passive"/>
     </net>
-    <net code="26" name="unconnected-(CON1-Pad22)">
-      <node ref="CON1" pin="22" pinfunction="22" pintype="passive"/>
+    <net code="26" name="unconnected-(Z31-Pad22)">
+      <node ref="Z31" pin="22" pinfunction="22" pintype="passive"/>
     </net>
-    <net code="27" name="unconnected-(CON1-Pad23)">
-      <node ref="CON1" pin="23" pinfunction="23" pintype="passive"/>
+    <net code="27" name="unconnected-(Z31-Pad23)">
+      <node ref="Z31" pin="23" pinfunction="23" pintype="passive"/>
     </net>
-    <net code="28" name="unconnected-(CON1-Pad24)">
-      <node ref="CON1" pin="24" pinfunction="24" pintype="passive"/>
+    <net code="28" name="unconnected-(Z31-Pad24)">
+      <node ref="Z31" pin="24" pinfunction="24" pintype="passive"/>
     </net>
-    <net code="29" name="unconnected-(CON1-Pad25)">
-      <node ref="CON1" pin="25" pinfunction="25" pintype="passive"/>
+    <net code="29" name="unconnected-(Z31-Pad25)">
+      <node ref="Z31" pin="25" pinfunction="25" pintype="passive"/>
     </net>
-    <net code="30" name="unconnected-(CON1-Pad26)">
-      <node ref="CON1" pin="26" pinfunction="26" pintype="passive"/>
+    <net code="30" name="unconnected-(Z31-Pad26)">
+      <node ref="Z31" pin="26" pinfunction="26" pintype="passive"/>
     </net>
-    <net code="31" name="unconnected-(CON1-Pad27)">
-      <node ref="CON1" pin="27" pinfunction="27" pintype="passive"/>
+    <net code="31" name="unconnected-(Z31-Pad27)">
+      <node ref="Z31" pin="27" pinfunction="27" pintype="passive"/>
     </net>
-    <net code="32" name="unconnected-(CON1-Pad28)">
-      <node ref="CON1" pin="28" pinfunction="28" pintype="passive"/>
+    <net code="32" name="unconnected-(Z31-Pad28)">
+      <node ref="Z31" pin="28" pinfunction="28" pintype="passive"/>
     </net>
-    <net code="33" name="unconnected-(CON1-Pad29)">
-      <node ref="CON1" pin="29" pinfunction="29" pintype="passive"/>
+    <net code="33" name="unconnected-(Z31-Pad29)">
+      <node ref="Z31" pin="29" pinfunction="29" pintype="passive"/>
     </net>
-    <net code="34" name="unconnected-(CON1-Pad30)">
-      <node ref="CON1" pin="30" pinfunction="30" pintype="passive"/>
+    <net code="34" name="unconnected-(Z31-Pad30)">
+      <node ref="Z31" pin="30" pinfunction="30" pintype="passive"/>
     </net>
-    <net code="35" name="unconnected-(CON1-Pad31)">
-      <node ref="CON1" pin="31" pinfunction="31" pintype="passive"/>
+    <net code="35" name="unconnected-(Z31-Pad31)">
+      <node ref="Z31" pin="31" pinfunction="31" pintype="passive"/>
     </net>
-    <net code="36" name="unconnected-(CON1-Pad34)">
-      <node ref="CON1" pin="34" pinfunction="34" pintype="passive"/>
+    <net code="36" name="unconnected-(Z31-Pad34)">
+      <node ref="Z31" pin="34" pinfunction="34" pintype="passive"/>
     </net>
-    <net code="37" name="unconnected-(CON1-Pad35)">
-      <node ref="CON1" pin="35" pinfunction="35" pintype="passive"/>
+    <net code="37" name="unconnected-(Z31-Pad35)">
+      <node ref="Z31" pin="35" pinfunction="35" pintype="passive"/>
     </net>
-    <net code="38" name="unconnected-(CON1-Pad36)">
-      <node ref="CON1" pin="36" pinfunction="36" pintype="passive"/>
+    <net code="38" name="unconnected-(Z31-Pad36)">
+      <node ref="Z31" pin="36" pinfunction="36" pintype="passive"/>
     </net>
-    <net code="39" name="unconnected-(CON1-Pad101)">
-      <node ref="CON1" pin="101" pinfunction="101" pintype="passive"/>
+    <net code="39" name="unconnected-(Z31-Pad101)">
+      <node ref="Z31" pin="101" pinfunction="101" pintype="passive"/>
     </net>
-    <net code="40" name="unconnected-(CON1-Pad102)">
-      <node ref="CON1" pin="102" pinfunction="102" pintype="passive"/>
+    <net code="40" name="unconnected-(Z31-Pad102)">
+      <node ref="Z31" pin="102" pinfunction="102" pintype="passive"/>
     </net>
-    <net code="41" name="unconnected-(CON1-Pad103)">
-      <node ref="CON1" pin="103" pinfunction="103" pintype="passive"/>
+    <net code="41" name="unconnected-(Z31-Pad103)">
+      <node ref="Z31" pin="103" pinfunction="103" pintype="passive"/>
     </net>
-    <net code="42" name="unconnected-(CON1-Pad104)">
-      <node ref="CON1" pin="104" pinfunction="104" pintype="passive"/>
+    <net code="42" name="unconnected-(Z31-Pad104)">
+      <node ref="Z31" pin="104" pinfunction="104" pintype="passive"/>
     </net>
-    <net code="43" name="unconnected-(CON1-Pad105)">
-      <node ref="CON1" pin="105" pinfunction="105" pintype="passive"/>
+    <net code="43" name="unconnected-(Z31-Pad105)">
+      <node ref="Z31" pin="105" pinfunction="105" pintype="passive"/>
     </net>
-    <net code="44" name="unconnected-(CON1-Pad106)">
-      <node ref="CON1" pin="106" pinfunction="106" pintype="passive"/>
+    <net code="44" name="unconnected-(Z31-Pad106)">
+      <node ref="Z31" pin="106" pinfunction="106" pintype="passive"/>
     </net>
-    <net code="45" name="unconnected-(CON1-Pad107)">
-      <node ref="CON1" pin="107" pinfunction="107" pintype="passive"/>
+    <net code="45" name="unconnected-(Z31-Pad107)">
+      <node ref="Z31" pin="107" pinfunction="107" pintype="passive"/>
     </net>
-    <net code="46" name="unconnected-(CON1-Pad108)">
-      <node ref="CON1" pin="108" pinfunction="108" pintype="passive"/>
+    <net code="46" name="unconnected-(Z31-Pad108)">
+      <node ref="Z31" pin="108" pinfunction="108" pintype="passive"/>
     </net>
-    <net code="47" name="unconnected-(CON1-Pad109)">
-      <node ref="CON1" pin="109" pinfunction="109" pintype="passive"/>
+    <net code="47" name="unconnected-(Z31-Pad109)">
+      <node ref="Z31" pin="109" pinfunction="109" pintype="passive"/>
     </net>
-    <net code="48" name="unconnected-(CON1-Pad112)">
-      <node ref="CON1" pin="112" pinfunction="112" pintype="passive"/>
+    <net code="48" name="unconnected-(Z31-Pad112)">
+      <node ref="Z31" pin="112" pinfunction="112" pintype="passive"/>
     </net>
-    <net code="49" name="unconnected-(CON1-Pad113)">
-      <node ref="CON1" pin="113" pinfunction="113" pintype="passive"/>
+    <net code="49" name="unconnected-(Z31-Pad113)">
+      <node ref="Z31" pin="113" pinfunction="113" pintype="passive"/>
     </net>
-    <net code="50" name="unconnected-(CON1-Pad1002)">
-      <node ref="CON1" pin="1002" pinfunction="1002" pintype="passive"/>
+    <net code="50" name="unconnected-(Z31-Pad1002)">
+      <node ref="Z31" pin="1002" pinfunction="1002" pintype="passive"/>
     </net>
-    <net code="51" name="unconnected-(CON1-Pad1003)">
-      <node ref="CON1" pin="1003" pinfunction="1003" pintype="passive"/>
+    <net code="51" name="unconnected-(Z31-Pad1003)">
+      <node ref="Z31" pin="1003" pinfunction="1003" pintype="passive"/>
     </net>
-    <net code="52" name="unconnected-(CON1-Pad1004)">
-      <node ref="CON1" pin="1004" pinfunction="1004" pintype="passive"/>
+    <net code="52" name="unconnected-(Z31-Pad1004)">
+      <node ref="Z31" pin="1004" pinfunction="1004" pintype="passive"/>
     </net>
-    <net code="53" name="unconnected-(CON1-Pad1005)">
-      <node ref="CON1" pin="1005" pinfunction="1005" pintype="passive"/>
+    <net code="53" name="unconnected-(Z31-Pad1005)">
+      <node ref="Z31" pin="1005" pinfunction="1005" pintype="passive"/>
     </net>
-    <net code="54" name="unconnected-(CON1-Pad1006)">
-      <node ref="CON1" pin="1006" pinfunction="1006" pintype="passive"/>
+    <net code="54" name="unconnected-(Z31-Pad1006)">
+      <node ref="Z31" pin="1006" pinfunction="1006" pintype="passive"/>
     </net>
-    <net code="55" name="unconnected-(CON1-Pad1007)">
-      <node ref="CON1" pin="1007" pinfunction="1007" pintype="passive"/>
+    <net code="55" name="unconnected-(Z31-Pad1007)">
+      <node ref="Z31" pin="1007" pinfunction="1007" pintype="passive"/>
     </net>
   </nets>
 </export>
