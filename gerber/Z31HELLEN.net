@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/runner/work/hellen-example/hellen-example/Z31HELLEN.kicad_sch</source>
+    <date>2024-09-18T03:34:44+0000</date>
+    <tool>Eeschema 8.0.5-8.0.5-0~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Z31HELLEN.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="CON1">
+      <value>Z32 2024</value>
+      <footprint>Main Conne-easyedapro:Z32 2024</footprint>
+      <fields>
+        <field name="Footprint">Main Conne-easyedapro:Z32 2024</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="z31 15p" part="Z32 2024" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Z31HELLEN.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a5a0073-dfa4-4500-b30b-5880c3cfed3f</tstamps>
+    </comp>
+    <comp ref="CON2">
+      <value>Z32 2024</value>
+      <footprint>Main Conne-easyedapro:Z32 2024</footprint>
+      <fields>
+        <field name="Footprint">Main Conne-easyedapro:Z32 2024</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="172023-1" part="Z32 2024" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Z31HELLEN.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac05016e-77f8-4a2b-a77b-8e4163125b80</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="172023-1" part="Z32 2024">
+      <fields>
+        <field name="Reference">CON1</field>
+        <field name="Value">Z32 2024</field>
+        <field name="Footprint">Main Conne-easyedapro:Z32 2024</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+        <pin num="5" name="5" type="unspecified"/>
+        <pin num="6" name="6" type="unspecified"/>
+        <pin num="7" name="7" type="unspecified"/>
+        <pin num="8" name="8" type="unspecified"/>
+        <pin num="9" name="9" type="unspecified"/>
+        <pin num="10" name="10" type="unspecified"/>
+        <pin num="11" name="11" type="unspecified"/>
+        <pin num="12" name="12" type="unspecified"/>
+        <pin num="13" name="13" type="unspecified"/>
+        <pin num="14" name="14" type="unspecified"/>
+        <pin num="15" name="15" type="unspecified"/>
+        <pin num="16" name="16" type="unspecified"/>
+        <pin num="17" name="17" type="unspecified"/>
+        <pin num="18" name="18" type="unspecified"/>
+        <pin num="19" name="19" type="unspecified"/>
+        <pin num="20" name="20" type="unspecified"/>
+        <pin num="21" name="21" type="unspecified"/>
+        <pin num="22" name="22" type="unspecified"/>
+        <pin num="23" name="23" type="unspecified"/>
+        <pin num="24" name="24" type="unspecified"/>
+        <pin num="25" name="25" type="unspecified"/>
+        <pin num="26" name="26" type="unspecified"/>
+        <pin num="27" name="27" type="unspecified"/>
+        <pin num="28" name="28" type="unspecified"/>
+        <pin num="29" name="29" type="unspecified"/>
+        <pin num="30" name="30" type="unspecified"/>
+        <pin num="31" name="31" type="unspecified"/>
+        <pin num="34" name="34" type="unspecified"/>
+        <pin num="35" name="35" type="unspecified"/>
+        <pin num="36" name="36" type="unspecified"/>
+        <pin num="1006" name="1006" type="unspecified"/>
+        <pin num="1007" name="1007" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="z31 15p" part="Z32 2024">
+      <fields>
+        <field name="Reference">CON1</field>
+        <field name="Value">Z32 2024</field>
+        <field name="Footprint">Main Conne-easyedapro:Z32 2024</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="101" name="101" type="unspecified"/>
+        <pin num="102" name="102" type="unspecified"/>
+        <pin num="103" name="103" type="unspecified"/>
+        <pin num="104" name="104" type="unspecified"/>
+        <pin num="105" name="105" type="unspecified"/>
+        <pin num="106" name="106" type="unspecified"/>
+        <pin num="107" name="107" type="unspecified"/>
+        <pin num="108" name="108" type="unspecified"/>
+        <pin num="109" name="109" type="unspecified"/>
+        <pin num="112" name="112" type="unspecified"/>
+        <pin num="113" name="113" type="unspecified"/>
+        <pin num="1002" name="1002" type="unspecified"/>
+        <pin num="1003" name="1003" type="unspecified"/>
+        <pin num="1004" name="1004" type="unspecified"/>
+        <pin num="1005" name="1005" type="unspecified"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries/>
+  <nets>
+    <net code="1" name="unconnected-(CON1-Pad101)">
+      <node ref="CON1" pin="101" pinfunction="101" pintype="unspecified"/>
+    </net>
+    <net code="2" name="unconnected-(CON1-Pad102)">
+      <node ref="CON1" pin="102" pinfunction="102" pintype="unspecified"/>
+    </net>
+    <net code="3" name="unconnected-(CON1-Pad103)">
+      <node ref="CON1" pin="103" pinfunction="103" pintype="unspecified"/>
+    </net>
+    <net code="4" name="unconnected-(CON1-Pad104)">
+      <node ref="CON1" pin="104" pinfunction="104" pintype="unspecified"/>
+    </net>
+    <net code="5" name="unconnected-(CON1-Pad105)">
+      <node ref="CON1" pin="105" pinfunction="105" pintype="unspecified"/>
+    </net>
+    <net code="6" name="unconnected-(CON1-Pad106)">
+      <node ref="CON1" pin="106" pinfunction="106" pintype="unspecified"/>
+    </net>
+    <net code="7" name="unconnected-(CON1-Pad107)">
+      <node ref="CON1" pin="107" pinfunction="107" pintype="unspecified"/>
+    </net>
+    <net code="8" name="unconnected-(CON1-Pad108)">
+      <node ref="CON1" pin="108" pinfunction="108" pintype="unspecified"/>
+    </net>
+    <net code="9" name="unconnected-(CON1-Pad109)">
+      <node ref="CON1" pin="109" pinfunction="109" pintype="unspecified"/>
+    </net>
+    <net code="10" name="unconnected-(CON1-Pad112)">
+      <node ref="CON1" pin="112" pinfunction="112" pintype="unspecified"/>
+    </net>
+    <net code="11" name="unconnected-(CON1-Pad113)">
+      <node ref="CON1" pin="113" pinfunction="113" pintype="unspecified"/>
+    </net>
+    <net code="12" name="unconnected-(CON1-Pad1002)">
+      <node ref="CON1" pin="1002" pinfunction="1002" pintype="unspecified"/>
+    </net>
+    <net code="13" name="unconnected-(CON1-Pad1003)">
+      <node ref="CON1" pin="1003" pinfunction="1003" pintype="unspecified"/>
+    </net>
+    <net code="14" name="unconnected-(CON1-Pad1004)">
+      <node ref="CON1" pin="1004" pinfunction="1004" pintype="unspecified"/>
+    </net>
+    <net code="15" name="unconnected-(CON1-Pad1005)">
+      <node ref="CON1" pin="1005" pinfunction="1005" pintype="unspecified"/>
+    </net>
+    <net code="16" name="unconnected-(CON2-Pad1)">
+      <node ref="CON2" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="17" name="unconnected-(CON2-Pad2)">
+      <node ref="CON2" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="18" name="unconnected-(CON2-Pad3)">
+      <node ref="CON2" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="19" name="unconnected-(CON2-Pad4)">
+      <node ref="CON2" pin="4" pinfunction="4" pintype="unspecified"/>
+    </net>
+    <net code="20" name="unconnected-(CON2-Pad5)">
+      <node ref="CON2" pin="5" pinfunction="5" pintype="unspecified"/>
+    </net>
+    <net code="21" name="unconnected-(CON2-Pad6)">
+      <node ref="CON2" pin="6" pinfunction="6" pintype="unspecified"/>
+    </net>
+    <net code="22" name="unconnected-(CON2-Pad7)">
+      <node ref="CON2" pin="7" pinfunction="7" pintype="unspecified"/>
+    </net>
+    <net code="23" name="unconnected-(CON2-Pad8)">
+      <node ref="CON2" pin="8" pinfunction="8" pintype="unspecified"/>
+    </net>
+    <net code="24" name="unconnected-(CON2-Pad9)">
+      <node ref="CON2" pin="9" pinfunction="9" pintype="unspecified"/>
+    </net>
+    <net code="25" name="unconnected-(CON2-Pad10)">
+      <node ref="CON2" pin="10" pinfunction="10" pintype="unspecified"/>
+    </net>
+    <net code="26" name="unconnected-(CON2-Pad11)">
+      <node ref="CON2" pin="11" pinfunction="11" pintype="unspecified"/>
+    </net>
+    <net code="27" name="unconnected-(CON2-Pad12)">
+      <node ref="CON2" pin="12" pinfunction="12" pintype="unspecified"/>
+    </net>
+    <net code="28" name="unconnected-(CON2-Pad13)">
+      <node ref="CON2" pin="13" pinfunction="13" pintype="unspecified"/>
+    </net>
+    <net code="29" name="unconnected-(CON2-Pad14)">
+      <node ref="CON2" pin="14" pinfunction="14" pintype="unspecified"/>
+    </net>
+    <net code="30" name="unconnected-(CON2-Pad15)">
+      <node ref="CON2" pin="15" pinfunction="15" pintype="unspecified"/>
+    </net>
+    <net code="31" name="unconnected-(CON2-Pad16)">
+      <node ref="CON2" pin="16" pinfunction="16" pintype="unspecified"/>
+    </net>
+    <net code="32" name="unconnected-(CON2-Pad17)">
+      <node ref="CON2" pin="17" pinfunction="17" pintype="unspecified"/>
+    </net>
+    <net code="33" name="unconnected-(CON2-Pad18)">
+      <node ref="CON2" pin="18" pinfunction="18" pintype="unspecified"/>
+    </net>
+    <net code="34" name="unconnected-(CON2-Pad19)">
+      <node ref="CON2" pin="19" pinfunction="19" pintype="unspecified"/>
+    </net>
+    <net code="35" name="unconnected-(CON2-Pad20)">
+      <node ref="CON2" pin="20" pinfunction="20" pintype="unspecified"/>
+    </net>
+    <net code="36" name="unconnected-(CON2-Pad21)">
+      <node ref="CON2" pin="21" pinfunction="21" pintype="unspecified"/>
+    </net>
+    <net code="37" name="unconnected-(CON2-Pad22)">
+      <node ref="CON2" pin="22" pinfunction="22" pintype="unspecified"/>
+    </net>
+    <net code="38" name="unconnected-(CON2-Pad23)">
+      <node ref="CON2" pin="23" pinfunction="23" pintype="unspecified"/>
+    </net>
+    <net code="39" name="unconnected-(CON2-Pad24)">
+      <node ref="CON2" pin="24" pinfunction="24" pintype="unspecified"/>
+    </net>
+    <net code="40" name="unconnected-(CON2-Pad25)">
+      <node ref="CON2" pin="25" pinfunction="25" pintype="unspecified"/>
+    </net>
+    <net code="41" name="unconnected-(CON2-Pad26)">
+      <node ref="CON2" pin="26" pinfunction="26" pintype="unspecified"/>
+    </net>
+    <net code="42" name="unconnected-(CON2-Pad27)">
+      <node ref="CON2" pin="27" pinfunction="27" pintype="unspecified"/>
+    </net>
+    <net code="43" name="unconnected-(CON2-Pad28)">
+      <node ref="CON2" pin="28" pinfunction="28" pintype="unspecified"/>
+    </net>
+    <net code="44" name="unconnected-(CON2-Pad29)">
+      <node ref="CON2" pin="29" pinfunction="29" pintype="unspecified"/>
+    </net>
+    <net code="45" name="unconnected-(CON2-Pad30)">
+      <node ref="CON2" pin="30" pinfunction="30" pintype="unspecified"/>
+    </net>
+    <net code="46" name="unconnected-(CON2-Pad31)">
+      <node ref="CON2" pin="31" pinfunction="31" pintype="unspecified"/>
+    </net>
+    <net code="47" name="unconnected-(CON2-Pad34)">
+      <node ref="CON2" pin="34" pinfunction="34" pintype="unspecified"/>
+    </net>
+    <net code="48" name="unconnected-(CON2-Pad35)">
+      <node ref="CON2" pin="35" pinfunction="35" pintype="unspecified"/>
+    </net>
+    <net code="49" name="unconnected-(CON2-Pad36)">
+      <node ref="CON2" pin="36" pinfunction="36" pintype="unspecified"/>
+    </net>
+    <net code="50" name="unconnected-(CON2-Pad1006)">
+      <node ref="CON2" pin="1006" pinfunction="1006" pintype="unspecified"/>
+    </net>
+    <net code="51" name="unconnected-(CON2-Pad1007)">
+      <node ref="CON2" pin="1007" pinfunction="1007" pintype="unspecified"/>
+    </net>
+  </nets>
+</export>
